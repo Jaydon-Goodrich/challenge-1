@@ -14,3 +14,4 @@ Added an a tag to the h1 in the header to return home when clicked. Also added a
 Added a title to the html doc to display a descriptive title of the companies home page.
 
 Added additional comments to show organization
+
