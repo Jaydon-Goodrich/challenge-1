@@ -12,3 +12,5 @@ Updated all image elements to have alt attributes that display what the image is
 Added an a tag to the h1 in the header to return home when clicked. Also added an id attribute to search engine optimation so the nav link would direct to that section.
 
 Added a title to the html doc to display a descriptive title of the companies home page.
+
+Added additional comments to show organization
