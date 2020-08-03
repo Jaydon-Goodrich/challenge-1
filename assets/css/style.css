@@ -77,8 +77,8 @@ p {
     margin-left: 25px;
 }
 
-/* Style for search-engine-optimization article */
-.search-engine-optimization {
+/* Style for articles content */
+.article-content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -86,44 +86,10 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-.search-engine-optimization img {
+.article-content img {
     max-height: 200px;
 }
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* style for online-reputation-management */
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-.online-reputation-management img {
-    max-height: 200px;
-}
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* Style for social-media-marketing */
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-.social-media-marketing img {
-    max-height: 200px;
-}
-.social-media-marketing h2 {
+.article-content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -140,46 +106,16 @@ p {
     background-color: #2589bd;
 }
 
-/* Style for benefits-lead section */
-.benefit-lead {
+/* Style for benefit-cards */
+.benefit-card {
     margin-bottom: 32px;
     color: #ffffff;
 }
-.benefit-lead h3 {
+.benefit-card h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* Style for benefit-brand section */
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* Style for benefit-cost section */
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-.benefit-cost img {
+.benefit-card img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
